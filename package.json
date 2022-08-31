@@ -1,0 +1,18 @@
+{
+  "name": "cryptocompare",
+  "version": "1.0.0",
+  "description": "CryptoCompare coding test",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node src/main.js",
+    "dev": "export NODE_ENV=development && node src/main.js"
+  },
+  "author": "Louis Foged",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "ws": "^8.8.1"
+  }
+}
