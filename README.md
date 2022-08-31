@@ -17,7 +17,7 @@ This app only runs locally.
 
 The program is now running and the results will be logged to your terminal, after 60seconds.
 
-**NOTE:** For the 1st 60seconds (default) that the program is running, nothing will be logged to the terminal, and it might look like the program/connection is unresponsive/'just hanging' - it is in fact getting trade data. The results will be logged after 60seconds.
+**NOTE:** For the first 60seconds (default) that the program is running, nothing will be logged to the terminal, and it might look like the program/connection is unresponsive/'just hanging' - it is in fact getting trade data. The results will be logged after 60seconds.
 
 ## Immediate improvements
 
